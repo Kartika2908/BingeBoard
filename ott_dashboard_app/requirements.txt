@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+openpyxl
+fpdf
+email-validator
